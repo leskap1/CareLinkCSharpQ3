@@ -1,0 +1,2 @@
+language = "csharp"
+run = "csc -out:main.exe main.cs UnitTest.cs\r\nmono main.exe"
